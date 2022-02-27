@@ -1,0 +1,7 @@
+#!c:\users\danie\pycharmprojects\alexa\venv\scripts\python.exe
+#
+# Call the graphical interface for Epydoc.
+#
+
+from epydoc.gui import gui
+gui()

@@ -1,0 +1,26 @@
+--------------------
+Date: 29:9:2021
+Time: 15:3
+Group_id: HEnaJiiLRcbCszDzc7dLb5
+Message: hello
+--------------------
+Date: 29:9:2021
+Time: 15:6
+Group_id: HEnaJiiLRcbCszDzc7dLb5
+Message: hello
+--------------------
+Date: 29:9:2021
+Time: 15:13
+Phone number: +972559847775
+Message: 1514 hello
+--------------------
+Date: 29:9:2021
+Time: 15:17
+Phone number: +972559847775
+Message: a16 hello booty
+--------------------
+Date: 29:9:2021
+Time: 15:20
+Phone number: +972559847775
+Message: 518
+--------------------
